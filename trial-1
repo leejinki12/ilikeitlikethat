@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <link href="https://fonts.googleapis.com/css?family=Oswald:700|Poppins:800&display=swap" rel="stylesheet">
+   <title> my failures </title>
+   <style>
+     body {background-color: red;}
+     h1 {color: white;
+	 font-size: 20vw;
+	 line-height: 15vw;
+         font-family: Oswald, Sans-serif;
+	 text-align: center;
+	 letter-spacing: -10px;
+	 margin: -20px;
+	 padding: 0px;
+ 	}
+     p {color: black;
+        font-size: 50px;
+	text-align: center;
+	text-decoration-skip: ink;
+	font-family: Poppins, sans-serif;
+	line-height: 30px;
+	margin: -100px 100px 0px 100px;
+	padding: 0px;
+       }
+   </style>
+</head>
+
+<body>
+   <h1> MYFAILURES MYFAILURES MYFAILURES </h1>
+   <p> these are about what i was doing and i have done but all of them failed </p>
+</body>
+</html>
